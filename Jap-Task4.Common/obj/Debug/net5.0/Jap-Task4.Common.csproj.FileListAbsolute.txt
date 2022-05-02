@@ -1,0 +1,12 @@
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\bin\Debug\net5.0\Jap-Task4.Common.deps.json
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\bin\Debug\net5.0\Jap-Task4.Common.dll
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\bin\Debug\net5.0\ref\Jap-Task4.Common.dll
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\bin\Debug\net5.0\Jap-Task4.Common.pdb
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\Jap-Task4.Common.csproj.AssemblyReference.cache
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\Jap-Task4.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\Jap-Task4.Common.AssemblyInfoInputs.cache
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\Jap-Task4.Common.AssemblyInfo.cs
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\Jap-Task4.Common.csproj.CoreCompileInputs.cache
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\Jap-Task4.Common.dll
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\ref\Jap-Task4.Common.dll
+C:\Users\zerinri\Jap-Task4\Jap-Task4.Common\obj\Debug\net5.0\Jap-Task4.Common.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/yZ07UiWKo5NZIWR7Y2PE0B6fWUXh34TQofMVP8UlVHgBg4osiSh7mXGia2u3s/mfCpz+jDeg0TK5seVbo1ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zerinri\\Jap-Task4\\Jap-Task4.Mapper\\Jap-Task4.Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerinri\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\zerinri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

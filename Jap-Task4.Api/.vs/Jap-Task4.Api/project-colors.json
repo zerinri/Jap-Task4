@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c9d106a-fa7f-443a-8c80-412b00086577": {
+      "ProjectGuid": "4c9d106a-fa7f-443a-8c80-412b00086577",
+      "DisplayName": "Jap-Task4.Common",
+      "ColorIndex": 0
+    },
+    "86ba963b-8c5b-4cbd-997c-54f7f1e92b16": {
+      "ProjectGuid": "86ba963b-8c5b-4cbd-997c-54f7f1e92b16",
+      "DisplayName": "Jap-Task4.Database",
+      "ColorIndex": 1
+    },
+    "cade7800-b404-4a31-b34b-aa357ef3e96a": {
+      "ProjectGuid": "cade7800-b404-4a31-b34b-aa357ef3e96a",
+      "DisplayName": "Jap-Task4.Mapper",
+      "ColorIndex": 2
+    },
+    "a8df069e-eec3-4900-977f-b0fc74c0d5d4": {
+      "ProjectGuid": "a8df069e-eec3-4900-977f-b0fc74c0d5d4",
+      "DisplayName": "Jap-Task4.Repository",
+      "ColorIndex": 3
+    },
+    "c5c57a06-ad84-438e-b2b8-353ac9948fe7": {
+      "ProjectGuid": "c5c57a06-ad84-438e-b2b8-353ac9948fe7",
+      "DisplayName": "Jap-Task4.Services",
+      "ColorIndex": 4
+    },
+    "3bf1b02f-b7eb-4e8e-a14e-d5519efbc772": {
+      "ProjectGuid": "3bf1b02f-b7eb-4e8e-a14e-d5519efbc772",
+      "DisplayName": "Jap-Task4.Api",
+      "ColorIndex": 5
+    },
+    "a62323ae-5cea-4dca-8424-d121394042bc": {
+      "ProjectGuid": "a62323ae-5cea-4dca-8424-d121394042bc",
+      "DisplayName": "Jap-Task4.Core",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

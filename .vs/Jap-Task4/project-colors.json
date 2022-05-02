@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "60b0ac5c-f57c-4880-87da-a1cb108e162a": {
+      "ProjectGuid": "60b0ac5c-f57c-4880-87da-a1cb108e162a",
+      "DisplayName": "Jap-Task4.Common",
+      "ColorIndex": 0
+    },
+    "3e3b7b16-e69a-4f60-8457-ef0531136f2d": {
+      "ProjectGuid": "3e3b7b16-e69a-4f60-8457-ef0531136f2d",
+      "DisplayName": "Jap-Task4-Api",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
